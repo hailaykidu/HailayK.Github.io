@@ -9,32 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education History
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Leibniz University of Hannover
+*PhD Candidate in Computer Science*
+- *March 2022 - Current*
+## Beijing University of Technology
+- *Sept 2019 - 2020*
+
+## University of Madras
+*M.Sc. in Information Technology*
+- *July 2010 - 2012*
+
+## Mekelle University
+*B.Ed. in IT*
+- *Sept 2004 - 2007*
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Tigray Regional Educational Bureau
+*IT Trainer*
+- *Oct 12, 2007 - Aug 4, 2008*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Gondar University
+*Lecturer*
+- *Aug 5, 2008 - Oct 11, 2015*
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Adigrat University
+*Lecturer*
+- *Oct 12, 2015 - Sep 29, 2016*
+
+## Cyber Software Company (Internship)
+*Data Analyst*
+- *Dec 2011 - Feb 2012*
+
+## Mekelle University
+*Assistant Professor*
+- *Sep 30, 2016 - August 2019*
   
 Skills
 ======
-* Skill 1
+* English,  1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
